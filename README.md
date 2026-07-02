@@ -2,7 +2,7 @@
 
 # 🛢️ Global Oil Supply Chain & Infrastructure Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://PLACEHOLDER.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://app-oil-supply-chain.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Platform-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://snowflake.com)
 [![dbt](https://img.shields.io/badge/dbt-Data%20Transformation-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://getdbt.com)
