@@ -19,6 +19,7 @@
 
 > Click the badge above to open the deployed app. No login required.
 
+https://app-oil-supply-chain.streamlit.app/
 The dashboard covers five analytical domains across four tabs:
 
 | Tab | What It Shows |
