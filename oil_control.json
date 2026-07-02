@@ -1,0 +1,11 @@
+[
+  {"track": "global", "label": "World production by country", "route": "international", "frequency": "annual", "data_field": "value", "facets": {"productId": ["57"], "activityId": ["1"], "countryRegionId": ["USA","SAU","RUS","CHN","CAN","IRQ","KWT","ARE","NGA","BRA","VEN","WORL"]}},
+  {"track": "global", "label": "World consumption by country", "route": "international", "frequency": "annual", "data_field": "value", "facets": {"productId": ["5"], "activityId": ["2"], "countryRegionId": ["USA","SAU","RUS","CHN","CAN","IRQ","KWT","ARE","NGA","BRA","VEN","WORL"]}},
+  {"track": "global", "label": "Crude oil imports by country/grade", "route": "crude-oil-imports", "frequency": "monthly", "data_field": "quantity", "facets": {"originType": ["CTY"], "destinationType": ["US"]}},
+  {"track": "storage", "label": "Weekly stocks by PADD + national", "route": "petroleum/stoc/wstk", "frequency": "weekly", "data_field": "value", "facets": {"duoarea": ["NUS","R10","R20","R30","R40","R50"], "product": ["EPC0"]}},
+  {"track": "storage", "label": "Cushing OK + PADD tank farm stocks", "route": "petroleum/stoc/cu", "frequency": "monthly", "data_field": "value", "facets": {"duoarea": ["YCUOK","NUS","R10","R20","R30","R40","R50"], "product": ["EPC0"]}},
+  {"track": "refining", "label": "Refinery utilization & capacity", "route": "petroleum/pnp/unc", "frequency": "monthly", "data_field": "value", "facets": {"duoarea": ["NUS","R10","R20","R30","R40","R50"], "product": ["EPXXX2"]}},
+  {"track": "infrastructure", "label": "US crude imports by country of origin", "route": "petroleum/move/impcus", "frequency": "monthly", "data_field": "value", "facets": {"product": ["EPC0"]}},
+  {"track": "infrastructure", "label": "Interregional crude movements (pipeline/tanker/barge/rail)", "route": "petroleum/move/ptb", "frequency": "monthly", "data_field": "value", "facets": {"product": ["EPC0"]}},
+  {"track": "balance", "label": "National crude supply & disposition balance", "route": "petroleum/sum/snd", "frequency": "monthly", "data_field": "value", "facets": {"duoarea": ["NUS"], "product": ["EPC0"]}}
+]

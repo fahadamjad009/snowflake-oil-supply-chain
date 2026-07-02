@@ -1,0 +1,2962 @@
+[
+  {
+    "id": "MAPMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBIMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MENMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "MENMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "METMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "METMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "MG1MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MIIMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP5P41",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP5P11",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPOMX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Oils for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP5P11",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MWXMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Waxes (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPC0_TNR_R40-R10_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPD0_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLE_TNR_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLE_TNR_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLL_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0RO_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline Tanker and Barge from Gulf Coast (PADD 3) of Other Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD V) Receipts by Pipeline Tanker and Barge from  Gulf Coast (PADD III) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Rail from Gulf Coast (PADD 3) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "MAPMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBIMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG5MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MIIMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO2MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO2MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPOMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Oils for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP5P11",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP5P41",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTXMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MWXMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Waxes (Thousand Barrels)"
+  },
+  {
+    "id": "M_EP00_TNR_R40-R10_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL0_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From Rocky Mountain (PADD 4) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From Rocky Mountain (PADD 4) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLEA_TNR_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLEA_TNR_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLEA_TNR_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPA_TNR_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0RO_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline Tanker and Barge from Gulf Coast (PADD 3) of Other Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD II) Receipts by Pipeline Tanker and Barge from  Gulf Coast (PADD III) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD IV) Receipts by Pipeline Tanker and Barge from  Gulf Coast (PADD III) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPP0_TNR_R10-R40_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Rail from East Coast (PADD 1) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Rail from Rocky Mountain (PADD 4) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPU_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPU_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MAPMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP5P41",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MENMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "MG1MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP5P11",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MIIMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO2MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO4MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated RBOB with Ether Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPCMX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPOMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Oils for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP3P41",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From West Coast (PADD 5) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5)  Receipts by Pipeline, Tanker, Barge and Rail From Rocky Mountain (PADD 4) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLE_TNR_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From Rocky Mountain (PADD 4) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPY_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPY_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPZ_TNR_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPZ_TNR_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLOLE_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Refinery Olefins (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0CAL55_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD III) Receipts by Pipeline Tanker and Barge from  Midwest (PADD II) of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD II) Receipts by Pipeline Tanker and Barge from  Rocky Mountain (PADD IV) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Rail from West Coast (PADD 5) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPU_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBIMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP3P41",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "METMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "METMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "MG1MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG5MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP2P51",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO2MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO4MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated RBOB with Ether Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPOMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Oils for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMX_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP5P21",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From West Coast (PADD 5) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From East Coast (PADD 1) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPA_TNR_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPY_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From East Coast (PADD 1) of Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPZ_TNR_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0RO_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline Tanker and Barge from West Coast (PADD 5) of Other Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD III) Receipts by Pipeline Tanker and Barge from  East Coast (PADD I) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R40-R10_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Rail from Gulf Coast (PADD 3) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Rail from Gulf Coast (PADD 3) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Rail from West Coast (PADD 5) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Rail from Midwest (PADD 2) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Rail from Rocky Mountain (PADD 4) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPU_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MAPMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MAPMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBIMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBIMX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMX_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MENMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "MENMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "MG1MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG5MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP5P41",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MIIMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP5P41",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPOMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Oils for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPOMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Oils for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MREMX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP2P51",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "M_EP00_TNR_R10-R40_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPC0_TNR_R10-R40_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPD0_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL0_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL0_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From East Coast (PADD 1) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPY_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From Gulf Coast (PADD 3) of Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPZ_TNR_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLL_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0RO_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline Tanker and Barge from East Coast (PADD 1) of Other Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD I) Receipts by Pipeline Tanker and Barge from  Midwest (PADD II) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD III) Receipts by Pipeline Tanker and Barge from  West Coast (PADD V) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Rail from West Coast (PADD 5) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R40-R10_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Rail from East Coast (PADD 1) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Rail from West Coast (PADD 5) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Rail from East Coast (PADD 1) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPM_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MAPMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MBUMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG5MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGRMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMX_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP5P21",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO2MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPCMX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP5P21",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMXP3P41",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MPRMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP5P21",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPDXL0_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPDXL0_TNR_R50-R10_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL0_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R20-R50_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLEA_TNR_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLE_TNR_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From East Coast (PADD 1) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLL_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLOLE_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Refinery Olefins (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLOLE_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Refinery Olefins (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0CAL55_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD III) Receipts by Pipeline Tanker and Barge from  East Coast (PADD I) of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD II) Receipts by Pipeline Tanker and Barge from  East Coast (PADD I) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R10-R40_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R50-R40_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Rail from Rocky Mountain (PADD 4) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Rail from Midwest (PADD 2) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBCMX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MBIMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MDIMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "METMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MIIMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP3P41",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP5P21",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP1P31",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MNFMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MO4MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated RBOB with Ether Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP2P51",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R50-R10_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MWXMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Waxes (Thousand Barrels)"
+  },
+  {
+    "id": "MWXMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Waxes (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL0_TNR_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From East Coast (PADD 1) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLNG_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3)  Receipts by Pipeline, Tanker, Barge and Rail From Rocky Mountain (PADD 4) of Natural Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPA_TNR_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPA_TNR_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPZ_TNR_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLL_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD III) Receipts by Pipeline Tanker and Barge from  Rocky Mountain (PADD IV) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDB_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Biodiesel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R20-R50_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOR_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biofuels (incl. Fuel Ethanol) (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R10-R50_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Rail from Midwest (PADD 2) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "MAPMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MBNMX_R40-R30_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRMX_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD0MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MD1MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MDGMXP5P41",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Distillate Fuel Oil, Greater Than 500 ppm Sulfur (Thousand Barrels)"
+  },
+  {
+    "id": "MENMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Ethane (Thousand Barrels)"
+  },
+  {
+    "id": "METMX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Ethane-Ethylene (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG4MX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MG6MX_R30-R20_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Other Conventional Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGAMX_R10-R50_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Aviation Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMXP4P31",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MGFMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Finished Motor Gasoline (Thousand Barrels)"
+  },
+  {
+    "id": "MIIMX_R30-R40_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "MKEMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Kerosene (Thousand Barrels)"
+  },
+  {
+    "id": "MKJMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Kerosene-Type Jet Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLPMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Liquified Petroleum Gases (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP1P21",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MLUMXP3P11",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Lubricants (Thousand Barrels)"
+  },
+  {
+    "id": "MMSMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MNGMX_R20-R40_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "MNSMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Special Naphthas (Thousand Barrels)"
+  },
+  {
+    "id": "MO1MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Reformulated Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO2MX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Reformulated GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO3MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated RBOB with Alcohol Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO4MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Reformulated RBOB with Ether Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO5MX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Conventional Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R10R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO6MX_R40-R20_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional CBOB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO7MX_R20-R30_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional GTAB Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MO9MX_R50-R30_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Conventional Other Gasoline Blending Components (Thousand Barrels)"
+  },
+  {
+    "id": "MPAMX_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Propane (Thousand Barrels)"
+  },
+  {
+    "id": "MPCMXP5P31",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Petrochemical Feedstocks (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP2P41",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP3P41",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPEMXP4P21",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R30-R10_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPNMX_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Naphtha for Petrochemical Feedstock Use (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMXP3P21",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MPPMX_R20-R10_1",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Pentanes Plus (Thousand Barrels)"
+  },
+  {
+    "id": "MREMXP1P51",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Residual Fuel Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP2P11",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MTTMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Crude Oil and Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "MUOMXP3P51",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Unfinished Oils (Thousand Barrels)"
+  },
+  {
+    "id": "MWXMXP2P31",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Waxes (Thousand Barrels)"
+  },
+  {
+    "id": "MWXMX_R10-R20_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Waxes (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL0_TNR_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Hydrocarbon Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R10-R20_MBBL",
+    "name": "East Coast (PADD 1)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R40-R50_MBBL",
+    "name": "Rocky Mountain (PADD 4)  Receipts by Pipeline, Tanker, Barge and Rail From West Coast (PADD 5) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPL2_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5)  Receipts by Pipeline, Tanker, Barge and Rail From Midwest (PADD 2) of Natural Gas Liquids (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0I_TNR_R50-R40_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Isobutane-Isobutylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLB0N_TNR_R10-R30_1",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Normal Butane-Butylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAI_TNR_R50-R20_1",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Isobutane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLBAN_TNR_R40-R50_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Normal Butane (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLLPZ_TNR_R30-R50_1",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Propane and Propylene (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPLOLE_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2)  Receipts by Pipeline, Tanker, Barge and Rail From East Coast (PADD 1) of Refinery Olefins (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0CAL55_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD I) Receipts by Pipeline Tanker and Barge from  Gulf Coast (PADD III) of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPM0CAL55_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD II) Receipts by Pipeline Tanker and Barge from  Gulf Coast (PADD III) of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD I) Receipts by Pipeline Tanker and Barge from  Gulf Coast (PADD III) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD III) Receipts by Pipeline Tanker and Barge from  Midwest (PADD II) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOBGRR_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD IV) Receipts by Pipeline Tanker and Barge from  Midwest (PADD II) of Motor Gasoline Blending Components, RBOB (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R20-R40_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Other Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORDO_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from Rocky Mountain (PADD 4) of Other Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R20-R30_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, Barge and Rail from Gulf Coast (PADD 3) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORD_TNR_R40-R30_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Biodiesel/Renewable Diesel Fuel (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R10-R30_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Pipeline, Tanker, and Barge from Gulf Coast (PADD 3) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R20-R10_MBBL",
+    "name": "Midwest (PADD 2) Receipts by Pipeline, Tanker, and Barge from East Coast (PADD 1) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOORO_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, and Barge from West Coast (PADD 5) of Other Biofuels (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R30-R50_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from West Coast (PADD 5) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPOOXE_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Fuel Ethanol (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPP0_TNR_R40-R10_1",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, Barge and Rail from East Coast (PADD 1) of Total Petroleum Products (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R30-R40_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Pipeline, Tanker, Barge and Rail from Rocky Mountain (PADD 4) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPA_TNR_R50-R20_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Pipeline, Tanker, Barge and Rail from Midwest (PADD 2) of Asphalt and Road Oil (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R10-R40_MBBL",
+    "name": "East Coast (PADD 1) Receipts by Rail from  Rocky Mountain (PADD 4) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R30-R10_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Rail from East Coast (PADD 1) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R30-R20_MBBL",
+    "name": "Gulf Coast (PADD 3) Receipts by Rail from Midwest (PADD 2) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPCM_TNR_R50-R30_MBBL",
+    "name": "West Coast (PADD 5) Receipts by Rail from Gulf Coast (PADD 3) of Petroleum Coke Marketable (Thousand Barrels)"
+  },
+  {
+    "id": "M_EPPM_TNR_R40-R20_MBBL",
+    "name": "Rocky Mountain (PADD 4) Receipts by Pipeline, Tanker, and Barge from Midwest (PADD 2) of Miscellaneous Petroleum Products (Thousand Barrels)"
+  }
+]

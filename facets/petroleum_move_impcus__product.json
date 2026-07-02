@@ -1,0 +1,210 @@
+[
+  {
+    "id": "EPC0",
+    "name": "Crude Oil"
+  },
+  {
+    "id": "EPPCM",
+    "name": "Petroleum Coke Marketable"
+  },
+  {
+    "id": "EPLLEA",
+    "name": "Ethane"
+  },
+  {
+    "id": "EPM0R",
+    "name": "Reformulated Motor Gasoline"
+  },
+  {
+    "id": "EPPPO",
+    "name": "Other Oils for Petrochemical Feedstock Use"
+  },
+  {
+    "id": "EPPRY",
+    "name": "Residual Fuel Oil, 0.31 to 1.00% Sulfur"
+  },
+  {
+    "id": "EPOORDO",
+    "name": "Renewable Diesel Fuel"
+  },
+  {
+    "id": "EPD0",
+    "name": "Distillate Fuel Oil"
+  },
+  {
+    "id": "EPLLEY",
+    "name": "Ethylene"
+  },
+  {
+    "id": "EPL0",
+    "name": "Natural Gas Liquids and Liquid Refinery Gases"
+  },
+  {
+    "id": "EPPNS",
+    "name": "Special Naphthas"
+  },
+  {
+    "id": "EPOBGR0",
+    "name": "Reformulated Gasoline Blending Components"
+  },
+  {
+    "id": "EPL2",
+    "name": "Natural Gas Plant Liquids"
+  },
+  {
+    "id": "EPOBV",
+    "name": "Aviation Gasoline Blending Components"
+  },
+  {
+    "id": "EPLLBAN",
+    "name": "Normal Butane"
+  },
+  {
+    "id": "EPLLBYN",
+    "name": "Normal Butylene"
+  },
+  {
+    "id": "EPLL",
+    "name": "Liquified Petroleum Gases"
+  },
+  {
+    "id": "EPPM",
+    "name": "Miscellaneous Petroleum Products"
+  },
+  {
+    "id": "EPOBG",
+    "name": "Gasoline Blending Components"
+  },
+  {
+    "id": "EPDM10",
+    "name": "Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur"
+  },
+  {
+    "id": "EPDM20",
+    "name": "Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur"
+  },
+  {
+    "id": "EPD00H",
+    "name": "Distillate Fuel Oil, Greater Than 500 ppm Sulfur"
+  },
+  {
+    "id": "EPPK",
+    "name": "Kerosene"
+  },
+  {
+    "id": "EPOOXT",
+    "name": "MTBE"
+  },
+  {
+    "id": "EPLLPY",
+    "name": "Propylene"
+  },
+  {
+    "id": "EPOOXE",
+    "name": "Fuel Ethanol"
+  },
+  {
+    "id": "EPLLBAI",
+    "name": "Isobutane"
+  },
+  {
+    "id": "EPOOXO",
+    "name": "Other Oxygenates"
+  },
+  {
+    "id": "EPP0",
+    "name": "Total Petroleum Products"
+  },
+  {
+    "id": "EPLOLE",
+    "name": "Refinery Olefins "
+  },
+  {
+    "id": "EPPA",
+    "name": "Asphalt and Road Oil"
+  },
+  {
+    "id": "EPDXL0",
+    "name": "Distillate Fuel Oil, 0 to 15 ppm Sulfur"
+  },
+  {
+    "id": "EPDXH0",
+    "name": "Distillate Fuel Oil, Greater than 2000 ppm Sulfur"
+  },
+  {
+    "id": "EPLP",
+    "name": "Pentanes Plus"
+  },
+  {
+    "id": "EPPR",
+    "name": "Residual Fuel Oil"
+  },
+  {
+    "id": "EPLLNG",
+    "name": "Natural Gasoline"
+  },
+  {
+    "id": "EP00",
+    "name": "Crude Oil and Petroleum Products"
+  },
+  {
+    "id": "EPOBGC0",
+    "name": "Conventional Gasoline Blending Components"
+  },
+  {
+    "id": "EPPW",
+    "name": "Waxes"
+  },
+  {
+    "id": "EPM0C",
+    "name": "Conventional Motor Gasoline"
+  },
+  {
+    "id": "EPPV",
+    "name": "Aviation Gasoline"
+  },
+  {
+    "id": "EPM0F",
+    "name": "Finished Motor Gasoline"
+  },
+  {
+    "id": "EPLLBYI",
+    "name": "Isobutylene"
+  },
+  {
+    "id": "EPJK",
+    "name": "Kerosene-Type Jet Fuel"
+  },
+  {
+    "id": "EPPL",
+    "name": "Lubricants"
+  },
+  {
+    "id": "EPPPN",
+    "name": "Naphtha for Petrochemical Feedstock Use"
+  },
+  {
+    "id": "EPLLPA",
+    "name": "Propane"
+  },
+  {
+    "id": "EPPRH",
+    "name": "Residual Fuel Oil, Greater Than 1% Sulfur"
+  },
+  {
+    "id": "EPPRX",
+    "name": "Residual Fuel Oil, Less than 0.31% Sulfur"
+  },
+  {
+    "id": "EPPU",
+    "name": "Unfinished Oils"
+  },
+  {
+    "id": "EPOORDB",
+    "name": "Biodiesel"
+  },
+  {
+    "id": "EPOORO",
+    "name": "Other Biofuels"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "REG",
+    "name": "Region"
+  },
+  {
+    "id": "CTY",
+    "name": "Country"
+  },
+  {
+    "id": "OPN",
+    "name": "OPEC/non-OPEC"
+  },
+  {
+    "id": "WORLD",
+    "name": "World"
+  }
+]

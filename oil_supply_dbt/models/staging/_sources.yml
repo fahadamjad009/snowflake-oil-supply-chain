@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    database: oil_supply_chain
+    schema: raw
+    tables:
+      - name: storage__cushing_ok_padd_tank_farm_stocks_raw
+      - name: storage__weekly_stocks_by_padd_national_raw
+      - name: refining__refinery_utilization_capacity_raw
+      - name: infrastructure__us_crude_imports_by_country_of_origin_raw
+      - name: infrastructure__interregional_crude_movements_pipeline_tanker_barge_rail_raw
+      - name: balance__national_crude_supply_disposition_balance_raw
+      - name: global__world_production_by_country_raw
+      - name: global__world_consumption_by_country_raw
+      - name: global__crude_oil_imports_by_country_grade_raw

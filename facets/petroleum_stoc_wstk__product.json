@@ -1,0 +1,134 @@
+[
+  {
+    "id": "EPC0",
+    "name": "Crude Oil"
+  },
+  {
+    "id": "EPM0R",
+    "name": "Reformulated Motor Gasoline"
+  },
+  {
+    "id": "EPOBGRG",
+    "name": "Reformulated GTAB Gasoline Blending Components"
+  },
+  {
+    "id": "EPD0",
+    "name": "Distillate Fuel Oil"
+  },
+  {
+    "id": "EPM0",
+    "name": "Total Gasoline"
+  },
+  {
+    "id": "EPOBGRRA",
+    "name": "Reformulated RBOB with Alcohol Gasoline Blending Components"
+  },
+  {
+    "id": "EPLLPYN",
+    "name": "Propylene NonFuel Use"
+  },
+  {
+    "id": "EPOBG",
+    "name": "Gasoline Blending Components"
+  },
+  {
+    "id": "EPDM10",
+    "name": "Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur"
+  },
+  {
+    "id": "EPD00H",
+    "name": "Distillate Fuel Oil, Greater Than 500 ppm Sulfur"
+  },
+  {
+    "id": "EPM0RA",
+    "name": "Reformulated Motor Gasoline with Alcohol"
+  },
+  {
+    "id": "EPM0CO",
+    "name": "Other Conventional Motor Gasoline"
+  },
+  {
+    "id": "EPOBGCO",
+    "name": "Conventional Other Gasoline Blending Components"
+  },
+  {
+    "id": "EPLLPZ",
+    "name": "Propane and Propylene"
+  },
+  {
+    "id": "EPPK",
+    "name": "Kerosene"
+  },
+  {
+    "id": "EPOBGRRE",
+    "name": "Reformulated RBOB with Ether Gasoline Blending Components"
+  },
+  {
+    "id": "EPOBGCC",
+    "name": "Conventional CBOB Gasoline Blending Components"
+  },
+  {
+    "id": "EPOBGCG",
+    "name": "Conventional GTAB Gasoline Blending Components"
+  },
+  {
+    "id": "EPM0CAG55",
+    "name": "Finished Motor Gasoline Conventional >55"
+  },
+  {
+    "id": "EPOBGRR",
+    "name": "Motor Gasoline Blending Components Reformulated RBOB"
+  },
+  {
+    "id": "EPOOXE",
+    "name": "Fuel Ethanol"
+  },
+  {
+    "id": "EPDXL0",
+    "name": "Distillate Fuel Oil, 0 to 15 ppm Sulfur"
+  },
+  {
+    "id": "EPPR",
+    "name": "Residual Fuel Oil"
+  },
+  {
+    "id": "EPPA",
+    "name": "Asphalt and Road Oil"
+  },
+  {
+    "id": "EPM0CA",
+    "name": "Conventional Motor Gasoline with Alcohol"
+  },
+  {
+    "id": "EP00",
+    "name": "Crude Oil and Petroleum Products"
+  },
+  {
+    "id": "EPL0XP",
+    "name": "NGPLs/LRGs (Excluding Propane/Propylene)"
+  },
+  {
+    "id": "EPPO6",
+    "name": "Other Oils (Excluding Fuel Ethanol)"
+  },
+  {
+    "id": "EPM0C",
+    "name": "Conventional Motor Gasoline"
+  },
+  {
+    "id": "EPM0F",
+    "name": "Finished Motor Gasoline"
+  },
+  {
+    "id": "EPJK",
+    "name": "Kerosene-Type Jet Fuel"
+  },
+  {
+    "id": "EPPU",
+    "name": "Unfinished Oils"
+  },
+  {
+    "id": "EPLLP0C",
+    "name": "Propane, fractionated and ready for sale"
+  }
+]

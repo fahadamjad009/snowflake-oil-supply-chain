@@ -1,0 +1,30 @@
+[
+  {
+    "id": "MCRSFP51",
+    "name": "West Coast (PADD 5) Crude Oil Stocks at Tank Farms and Pipelines (Thousand Barrels)"
+  },
+  {
+    "id": "MCRST_YCUOK_1",
+    "name": "Cushing, OK Ending Stocks of Crude Oil (Thousand Barrels)"
+  },
+  {
+    "id": "MCRSFUS1",
+    "name": "U.S. Crude Oil Stocks at Tank Farms and Pipelines (Thousand Barrels)"
+  },
+  {
+    "id": "MCRSFP21",
+    "name": "Midwest (PADD 2) Crude Oil Stocks at Tank Farms and Pipelines (Thousand Barrels)"
+  },
+  {
+    "id": "MCRSFP41",
+    "name": "Rocky Mountain (PADD 4) Crude Oil Stocks at Tank Farms and Pipelines (Thousand Barrels)"
+  },
+  {
+    "id": "MCRSFP11",
+    "name": "East Coast (PADD 1) Crude Oil Stocks at Tank Farms and Pipelines (Thousand Barrels)"
+  },
+  {
+    "id": "MCRSFP31",
+    "name": "Gulf Coast (PADD 3) Crude Oil Stocks at Tank Farms and Pipelines (Thousand Barrels)"
+  }
+]

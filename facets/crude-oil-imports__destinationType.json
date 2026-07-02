@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PS",
+    "name": "Port State"
+  },
+  {
+    "id": "US",
+    "name": "United States"
+  },
+  {
+    "id": "RP",
+    "name": "Refinery PADD"
+  },
+  {
+    "id": "PP",
+    "name": "Port PADD"
+  },
+  {
+    "id": "RS",
+    "name": "Refinery State"
+  },
+  {
+    "id": "PT",
+    "name": "Port"
+  },
+  {
+    "id": "RF",
+    "name": "Refinery"
+  }
+]

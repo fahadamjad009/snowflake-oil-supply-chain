@@ -1,0 +1,130 @@
+[
+  {
+    "id": "R20-R10",
+    "name": "PADD 1"
+  },
+  {
+    "id": "R50-R10",
+    "name": "PADD 1"
+  },
+  {
+    "id": "R50-R30",
+    "name": "PADD 5"
+  },
+  {
+    "id": "R40-R20",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R30-R10",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R10-R20",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R10-R50",
+    "name": "PADD 5"
+  },
+  {
+    "id": "R50-R20",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R10-R20",
+    "name": "PADD 1"
+  },
+  {
+    "id": "R50-R30",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R40-R30",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R50-R40",
+    "name": "PADD 4"
+  },
+  {
+    "id": "R20-R30",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R30-R40",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R20-R30",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R20-R50",
+    "name": "PADD 5"
+  },
+  {
+    "id": "R10-R40",
+    "name": "PADD 4"
+  },
+  {
+    "id": "R20-R40",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R10-R30",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R30-R10",
+    "name": "PADD 1"
+  },
+  {
+    "id": "R30-R40",
+    "name": "PADD 4"
+  },
+  {
+    "id": "R40-R10",
+    "name": "PADD 1"
+  },
+  {
+    "id": "R30-R20",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R30-R50",
+    "name": "PADD 3"
+  },
+  {
+    "id": "R20-R10",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R40-R20",
+    "name": "PADD 4"
+  },
+  {
+    "id": "R40-R30",
+    "name": "PADD 4"
+  },
+  {
+    "id": "R30-R20",
+    "name": "PADD 2"
+  },
+  {
+    "id": "R30-R50",
+    "name": "PADD 5"
+  },
+  {
+    "id": "R20-R40",
+    "name": "PADD 4"
+  },
+  {
+    "id": "R40-R50",
+    "name": "PADD 5"
+  },
+  {
+    "id": "R10-R30",
+    "name": "PADD 1"
+  }
+]
